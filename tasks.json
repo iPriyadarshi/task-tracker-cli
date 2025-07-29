@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "description": "Buy groceries and cook dinner",
+    "status": "in-progress",
+    "createdAt": "2025-07-29T19:23:24.493892",
+    "updatedAt": "2025-07-29T19:23:24.919560"
+  },
+  {
+    "id": 2,
+    "description": "Complete Python project",
+    "status": "done",
+    "createdAt": "2025-07-29T19:23:37.411699",
+    "updatedAt": "2025-07-29T19:24:40.134832"
+  },
+  {
+    "id": 3,
+    "description": "Write documentation",
+    "status": "todo",
+    "createdAt": "2025-07-29T19:23:46.776565",
+    "updatedAt": "2025-07-29T19:23:46.776565"
+  }
+]
