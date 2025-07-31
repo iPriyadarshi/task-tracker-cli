@@ -6,6 +6,8 @@ A simple, efficient command-line interface (CLI) application for managing tasks.
 ![Platform](https://img.shields.io/badge/platform-windows%20%7C%20macos%20%7C%20linux-lightgrey.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 
+![Interactive Task Tracker](https://github.com/iPriyadarshi/task-tracker-cli/blob/main/task-tracker-interactive.png)
+
 ## Features
 
 - ✅ Add new tasks
